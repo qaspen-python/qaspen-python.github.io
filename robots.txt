@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://qaspen-python.github.io/psqlpy-docs/sitemap.xml
+Sitemap: https://qaspen-python.github.io/sitemap.xml
