@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://qaspen-python.github.io/psqlpy-docs/sitemap.xml
